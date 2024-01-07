@@ -1,0 +1,1 @@
+Gate related examples are commented out in the application source code of this lesson.

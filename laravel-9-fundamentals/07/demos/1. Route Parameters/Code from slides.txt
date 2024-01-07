@@ -1,0 +1,9 @@
+Route::get('/posts/{post}', function ($id) {
+	// generate a response
+});
+
+
+
+Route::get('/posts/{post}', function (Request $request, $id ) {
+	// generate a response
+});

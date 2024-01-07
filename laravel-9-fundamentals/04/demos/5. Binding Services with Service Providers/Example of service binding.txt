@@ -1,0 +1,7 @@
+$this->app->bind('request', function () {
+     return new Request(new DependencyClass(new HelperClass), $request_config);
+});
+
+
+
+// Note that this is just a simplification of service binding.

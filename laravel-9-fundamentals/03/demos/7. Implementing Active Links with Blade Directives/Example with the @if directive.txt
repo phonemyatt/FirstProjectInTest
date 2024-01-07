@@ -1,0 +1,11 @@
+@if (request()->routeIs('home'))
+<li><a class="active" href="{{ route('home') }}">Home</a></li>
+@else
+<li><a href="{{ route('home') }}">Home</a></li>
+@endif
+
+@if (request()->routeIs('about'))
+<li><a class="active" href="{{ route('about') }}">About</a></li>
+@else
+<li><a href="{{ route('about') }}">About</a></li>
+@endif

@@ -1,0 +1,8 @@
+Laracon
+https://laracon.net/
+
+Laracasts
+https://laracasts.com/
+
+Laravel Docs (Vue.js)
+https://laravel.com/docs/9.x/starter-kits#breeze-and-inertia

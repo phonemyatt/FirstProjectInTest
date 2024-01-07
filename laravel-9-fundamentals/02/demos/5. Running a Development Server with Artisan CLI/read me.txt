@@ -1,0 +1,2 @@
+This is just a new Laravel project, so it makes no sense for you to clone it, since you can create a new laravel project yourself.
+However, the code will be here for the sake of consistency.

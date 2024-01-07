@@ -1,0 +1,11 @@
+Digital Ocean Laravel
+https://try.digitalocean.com/deploy-laravel/
+
+Laravel on AWS Elastic Beanstalk
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html
+
+Laravel Forge
+https://forge.laravel.com/
+
+Laravel Vapor
+https://vapor.laravel.com/
